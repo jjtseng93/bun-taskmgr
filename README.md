@@ -1,4 +1,6 @@
 # Bun Task Manager
+- Only runs by Bun v1.3.12 or later
+- .
 - This is a minimal task manager
 - uses ps -eo pid,args to list processes
 - kills a process by clicking on link
