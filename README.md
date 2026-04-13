@@ -16,5 +16,12 @@
 
 # Works on
 - Android arm64: Termux proot
-- Windows x64: Windows 11
+  * Requirements same as CachyOS
 - Linux x64: CachyOS
+  * Alacritty out of the box, just click on the link
+  * Konsole requires 
+    + "Allow escape sequences for links" 
+    + In the Edit Current Profile => Mouse => Miscellaneous (Add a new profile first)
+- Windows x64: Windows 11 powershell
+  * Click on the link with Ctrl key down
+
