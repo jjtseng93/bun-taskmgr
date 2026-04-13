@@ -114,6 +114,7 @@ function killProcess(pid, signal = currentSignal) {
       "/PID",
       String(pid),
       "/T",
+      "/F"
     ]);
 
     if (exitCode !== 0) {
